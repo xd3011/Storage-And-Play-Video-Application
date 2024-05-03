@@ -4,7 +4,7 @@
 ## Build
 **1. Clone Project**
 ```
-> git clone https://github.com/xd3011/Chat-App](https://github.com/xd3011/Storage-And-Play-Video-Application
+> git clone https://github.com/xd3011/Storage-And-Play-Video-Application
 ```
 **2. Install packet**
 ```
